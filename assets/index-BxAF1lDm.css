@@ -1,7 +1,7 @@
 @import"https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700&display=swap";
 :root {
     --color-bg-primary: hsl(0, 0%, 100%);
-    --color-bg-secondary: hsl(0, 0%, 80%);
+    --color-bg-secondary: hsl(0, 0%, 100%);
     --color-bg-tertiary: hsl(0, 0%, 83%);
     --color-text-primary: hsl(0, 0%, 15%);
     --color-text-secondary: hsl(0, 0%, 35%);
