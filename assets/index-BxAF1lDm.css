@@ -2,7 +2,7 @@
 :root {
     --color-bg-primary: hsl(0, 0%, 100%);
     --color-bg-secondary: hsl(0, 0%, 100%);
-    --color-bg-tertiary: hsl(0, 0%, 95%);
+    --color-bg-tertiary: hsl(0, 0%, 100%);
     --color-text-primary: hsl(0, 0%, 15%);
     --color-text-secondary: hsl(0, 0%, 35%);
     --color-highlight: hsl(330, 85%, 50%);
